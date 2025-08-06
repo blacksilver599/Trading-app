@@ -15,8 +15,6 @@ We'll dive into several basic HTML concepts, including:
 * Adding text using paragraphs
 * Creating links so users can contact you
 
-## Live Demo
-Simply click on this link:- 
 
 ## Installation
 
